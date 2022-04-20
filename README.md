@@ -16,18 +16,18 @@ Before we clone the repository, it is worth knowing some basic command which wil
 
 Use the commands below to create a folder/directory called `training`. Inside this directory, create a file called `main.py`.
 
-`mkdir <directory_name>`: create a new directory/folder
-`cd <directory_name>`: change directory
-`touch <file_name>`: create a file
-`ls`: list files in a directory
+* `mkdir <directory_name>`: create a new directory/folder
+* `cd <directory_name>`: navigate into a directory
+* `touch <file_name>`: create a file
+* `ls`: list files in a directory
 
 #### Task 2
 
 Let's practice moving and deleting files. Use the commands below to move the `main.py` file to your home directory. Navigate back to the home directory and then remove the `main.py` file. Note that `~` can be used to refer to your home directory, and `..` can be used to refer to a directory one step back/up from the one you are in.
 
-`rm <filename>`: delete file(s)
-`cp <filename> <new_location>`: copy a file from current location to a new one
-`mv <filename> <new_location>`: move a file from current location to a new one
+* `rm <filename>`: delete file(s)
+* `cp <filename> <new_location>`: copy a file from current location to a new one
+* `mv <filename> <new_location>`: move a file from current location to a new one
 
 #### Task 3
 
