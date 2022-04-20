@@ -34,6 +34,22 @@ Let's practice moving and deleting files. Use the commands below to move the `ma
 Clone this git repository! Using `cd`, navigate into the `training` directory you created. You can the clone this repository using `git clone git@github.com:moj-analytical-services/intro-to-python.git`. Navigate into your newly cloned repository. Create a new branch to work on, using the command `git checkout -b <your_branch_name>` (name the branch with your name or initials, or something unique!). We'll revisit some other git commands later in the training.
 
 
+## Part 2: Installing and importing packages
+
+Packages make your life easier when coding in python. You can use them to do things that would be very time consuming to do in base python, so it is worth understanding how to install them early on.
+
+### [Optional] Create a virtual environment
+
+Virtual environments keep your projects separate, so you don't have clashes between package version. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab.html#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab.
+
+### Task 1: Install the pandas package
+
+Pandas is a data analysis package which you are likely to use a lot when coding in python. We use `pip` via the command line to install package using `pip install <package_name>`. Install pandas now.
+
+### Task 2: Import the pandas package
+
+In JupyterLab, go to the file navigator on the left of screen and click on `training` -> `intro-to-python` -> `intro-to-python.ipynb`. This should open a juptyer notebook with the rest of this training session's content.
+
 
 ## Answers to Part 1
 
