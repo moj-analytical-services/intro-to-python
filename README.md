@@ -79,6 +79,7 @@ Pandas is a data analysis package which you are likely to use a lot when coding 
 
 <details>
   <summary><h4>Solution</h4></summary>
+  
   ```bash
   pip install pandas
   ```
