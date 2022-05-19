@@ -10,7 +10,7 @@ This is intended for people who have never (or very rarely) used jupyterlab on t
 
 To clone a github repository in JupyterLab, we need to use the command line/Terminal. To open the Terminal, click the `+` button in the top left and click on Terminal. You should see a command line prompt.
 
-Before we clone the repository, it is worth knowing some basic command which will allow you to navigate you directories and files in JupyterLab. 
+Before we clone the repository, it is worth knowing some basic commands which will allow you to navigate your directories and files in JupyterLab. 
 
 #### Task
 
@@ -52,7 +52,7 @@ Let's practice moving and deleting files. Use the commands below to move the `ma
 
 #### Task
 
-Clone this git repository! Using `cd`, navigate into the `training` directory you created. You can the clone this repository using `git clone git@github.com:moj-analytical-services/intro-to-python.git`. Navigate into your newly cloned repository. Create a new branch to work on, using the command `git checkout -b <your_branch_name>` (name the branch with your name or initials, or something unique!). We'll revisit some other git commands later in the training.
+Clone this git repository! Using `cd`, navigate into the `training` directory you created. You can clone this repository using `git clone git@github.com:moj-analytical-services/intro-to-python.git`. Navigate into your newly cloned repository. Create a new branch to work on, using the command `git checkout -b <your_branch_name>` (name the branch with your name or initials, or something unique!). We'll revisit some other git commands later in the training.
 
 <details>
   <summary><h4>Solution</h4></summary>
@@ -71,7 +71,7 @@ Packages make your life easier when coding in python. You can use them to do thi
 
 #### [Optional] Create a virtual environment
 
-Virtual environments keep your projects separate, so you don't have clashes between package version. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab.html#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab.
+Virtual environments keep your projects separate, so you don't have clashes between package versions. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab.html#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab.
 
 #### Task: Install the pandas package
 
