@@ -1,8 +1,14 @@
 # intro-to-python
 
+If you have any comments or something you'd like to add/edit, feel free to [https://github.com/moj-analytical-services/intro-to-python/issues](raise an issue) or submit your own Pull Request!
+
 ## Prerequisites
 
 This is intended for people who have never (or very rarely) used jupyterlab on the Analytical Platform (AP), or python, before. The only prerequisite is that you have followed the instructions [here](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#jupyterlab) to allow you to clone this repository on the AP.
+
+You'll then need to open JupyterLab via Control Panel, under Analytical Tools. Any version should work (go for the latest one if you aren't sure).
+
+Throughout this training, there are some inline solutions to help you. You can see these by clicking on them.
 
 ## Part 1: JupyterLab and the command line
 
@@ -89,11 +95,3 @@ Pandas is a data analysis package which you are likely to use a lot when coding 
 
 In JupyterLab, go to the file navigator on the left of screen and click on `training` -> `intro-to-python` -> `intro-to-python.ipynb`. This should open a juptyer notebook with the rest of this training session's content.
 
-
-## Answers to Part 1
-
-Add some answers later
-
-## Answers to Part 2
-
-Add some answers later
