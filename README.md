@@ -1,6 +1,6 @@
 # intro-to-python
 
-If you have any comments or something you'd like to add/edit, feel free to [https://github.com/moj-analytical-services/intro-to-python/issues](raise an issue) or submit your own Pull Request!
+If you have any comments or something you'd like to add/edit, feel free to [raise an issue](https://github.com/moj-analytical-services/intro-to-python/issues) or submit your own Pull Request!
 
 ## Prerequisites
 
