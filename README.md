@@ -10,7 +10,7 @@ This is intended for people who have never (or very rarely) used jupyterlab on t
 
 You'll then need to open JupyterLab via Control Panel, under Analytical Tools. Any version should work (go for the latest one if you aren't sure).
 
-Throughout this training, there are some inline solutions to help you. You can see these by clicking on them.
+Throughout this training, there are some inline solutions to help you. You can see these by clicking on them. It is advised you read this Readme on GitHub, and view the notebook in JupyterLab so you don't reveal the solutions too soon!
 
 ## Part 1: JupyterLab and the command line
 
