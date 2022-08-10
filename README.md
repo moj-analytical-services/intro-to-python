@@ -85,7 +85,7 @@ Packages make your life easier when coding in python. You can use them to do thi
 
 #### [Optional] Create a virtual environment
 
-Virtual environments keep your projects separate, so you don't have clashes between package versions. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab/#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab.
+Virtual environments keep your projects separate, so you don't have clashes between package versions. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab/#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab. You will create virtual environments on the command line.
 
 #### Task: Install the pandas package
 
