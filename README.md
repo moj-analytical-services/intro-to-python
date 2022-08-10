@@ -6,9 +6,13 @@ If you have any comments or something you'd like to add/edit, feel free to [rais
 
 ## Prerequisites
 
-This is intended for people who have never (or very rarely) used jupyterlab on the Analytical Platform (AP), or python, before. The only prerequisite is that you have followed the instructions [here](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#jupyterlab) to allow you to clone this repository on the AP.
+This is intended for people who have never (or very rarely) used jupyterlab on the Analytical Platform (AP), or python, before.
 
-You'll then need to open JupyterLab via Control Panel, under Analytical Tools. Any version should work (go for the latest one if you aren't sure).
+### Set up
+
+1. Deploy (if you haven't previously) and then open JupyterLab via [Control Panel](https://controlpanel.services.analytical-platform.service.justice.gov.uk/), under Analytical Tools. Any version should work (go for the latest one if you aren't sure). If you are having a little bit of trouble here, the [user guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/control-panel.html#control-panel) has some more information.
+
+2. You'll need to follow the instructions [here](https://user-guidance.services.alpha.mojanalytics.xyz/github.html#jupyterlab) up to and including the section "Add the SSH key to GitHub", to allow you to clone this repository on the AP. This can be a little bit tricky - if you are new to using GitHub then do feel free to ask for help in the [#git](https://asdslack.slack.com/archives/C4VF9PRLK) or [#python](https://asdslack.slack.com/archives/C1Q09V86S) Slack channels!
 
 Throughout this training, there are some inline solutions to help you. You can see these by clicking on them. It is advised you read this Readme on GitHub, and view the notebook in JupyterLab so you don't reveal the solutions too soon!
 
@@ -60,7 +64,9 @@ Let's practice moving and deleting files. Use the commands below to move the `ma
 
 #### Task
 
-Clone this git repository! Using `cd`, navigate into the `training` directory you created. You can clone this repository using `git clone git@github.com:moj-analytical-services/intro-to-python.git`. Navigate into your newly cloned repository. Create a new branch to work on, using the command `git checkout -b <your_branch_name>` (name the branch with your name or initials, or something unique!). We'll revisit some other git commands later in the training.
+Clone this git repository! Using `cd`, navigate into the `training` directory you created. You can clone this repository using `git clone git@github.com:moj-analytical-services/intro-to-python.git`<sup>1</sup>. Navigate into your newly cloned repository. Create a new branch to work on, using the command `git checkout -b <your_branch_name>` (name the branch with your name or initials, or something unique!). We'll revisit some other git commands later in the training.
+
+1. Note: you may get a message when you clone the repo "The authenticity of host 'github.com (140.82.121.4)' can't be established. ECDSA key fingerprint is … Are you sure you want to continue connecting (yes/no/fingerprint)?’". This is normal, just type yes and hit return.
 
 <details>
   <summary><h4>Solution</h4></summary>
@@ -79,7 +85,7 @@ Packages make your life easier when coding in python. You can use them to do thi
 
 #### [Optional] Create a virtual environment
 
-Virtual environments keep your projects separate, so you don't have clashes between package versions. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab.html#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab.
+Virtual environments keep your projects separate, so you don't have clashes between package versions. For the purposes of this exercise, it isn't necessary, but you may want to read [this guidance](https://user-guidance.services.alpha.mojanalytics.xyz/tools/jupyterlab/#using-a-virtual-environment-in-jupyter) on how to create them and use them in JupyterLab. You will create virtual environments on the command line.
 
 #### Task: Install the pandas package
 
