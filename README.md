@@ -4,6 +4,8 @@ This training is designed to be worked through in your own time. However, if you
 
 If you have any comments or something you'd like to add/edit, feel free to [raise an issue](https://github.com/moj-analytical-services/intro-to-python/issues) or submit your own Pull Request!
 
+Once you have completed this, or if you are already familiry with juptyerlab and python, you might find [our course on iterables](https://github.com/moj-analytical-services/python-training-iterables) useful.
+
 ## Prerequisites
 
 This is intended for people who have never (or very rarely) used jupyterlab on the Analytical Platform (AP), or python, before.
