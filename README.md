@@ -1,6 +1,6 @@
 # intro-to-python
 
-This training is designed to be worked through in your own time. However, if you think you or your team may benefit from having someone on hand to help, then please contact George.Kelly1@justice.gov.uk via Slack, Teams or email to arrange a session.
+This training is designed to be worked through in your own time. However, if you think you or your team may benefit from having someone on hand to help, then please contact Michael.Ratford@justice.gov.uk via Slack, Teams or email to arrange a session.
 
 If you have any comments or something you'd like to add/edit, feel free to [raise an issue](https://github.com/moj-analytical-services/intro-to-python/issues) or submit your own Pull Request!
 
