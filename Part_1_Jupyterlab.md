@@ -259,6 +259,7 @@ Using `venv` and `pip` is the standard way to manage Python projects but is not 
 * [Poetry](https://python-poetry.org/) is widely used, particularly when developing packages such as [pydbtools](https://github.com/moj-analytical-services/pydbtools).
 * [uv](https://docs.astral.sh/uv/) can be used as much more than just a replacement for the built in `pip` and `venv`
 * There are many others... 
+
 ![Obligatory XKCD cartoon](https://imgs.xkcd.com/comics/python_environment.png)
 
 In JupyterLab, go to the file navigator on the left of screen and click on `intro-to-python` -> `intro-to-python.ipynb`. This should open a jupyter notebook with the rest of this training session's content.
