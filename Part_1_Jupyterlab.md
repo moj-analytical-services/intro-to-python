@@ -262,5 +262,5 @@ Using `venv` and `pip` is the standard way to manage Python projects but is not 
 
 ![Obligatory XKCD cartoon](https://imgs.xkcd.com/comics/python_environment.png)
 
-In JupyterLab, go to the file navigator on the left of screen and click on `intro-to-python` -> `intro-to-python.ipynb`. This should open a jupyter notebook with the rest of this training session's content.
+In JupyterLab, go to the file navigator on the left of screen and click on `intro-to-python` -> `Part_2_Python.ipynb`. This should open a jupyter notebook with the next part of this training session's content.
 
