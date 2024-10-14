@@ -134,7 +134,7 @@ python -m pip install -r requirements.txt
 
 #### Task: Install additional packages
 
-The requirements file included `pandas`, a data analysis package which you are likely to use a lot when coding in python, and `matplotlib`, a graphing package. However to access files on the Analytical Platform we need an additional package, `s3fs`.
+The requirements file included `pandas`, a data analysis package which you are likely to use a lot when coding in python, and a few other useful packages. However to access files on the Analytical Platform we need an additional package, `s3fs`.
 
 We use `pip` via the command line to install package using `(uv) pip install <package_name>`. Install `s3fs` now.
 
