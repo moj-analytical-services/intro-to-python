@@ -16,5 +16,7 @@ This is intended for people who have never (or very rarely) used jupyterlab on t
 
 2. You'll need to follow the instructions [here](https://user-guidance.services.alpha.mojanalytics.xyz/github/set-up-github.html#jupyterlab) up to and including the section "Add the SSH key to GitHub", to allow you to clone this repository on the AP. This can be a little bit tricky - if you are new to using GitHub then do feel free to ask for help in the [#git](https://asdslack.slack.com/archives/C4VF9PRLK) or [#python](https://asdslack.slack.com/archives/C1Q09V86S) Slack channels!
 
-Throughout this training, there are some inline solutions to help you. You can see these by clicking on them. It is advised you read this Readme on GitHub, and view the notebook in JupyterLab so you don't reveal the solutions too soon!
+## The course
+
+The course is in three parts. It's best to view [Part 1](Part_1_Jupyter.md) on Github and move on to the notebooks for [Part 2](Part_2_Python.ipynb) and [Part 3](Part_3_Pandas.ipynb) in Jupyterlab.
 
