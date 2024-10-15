@@ -18,5 +18,5 @@ This is intended for people who have never (or very rarely) used jupyterlab on t
 
 ## The course
 
-The course is in three parts. It's best to view [Part 1](Part_1_Jupyter.md) on Github and move on to the notebooks for [Part 2](Part_2_Python.ipynb) and [Part 3](Part_3_Pandas.ipynb) in Jupyterlab.
+The course is in three parts. It's best to view [Part 1](Part_1_Jupyterlab.md) on Github and move on to the notebooks for [Part 2](Part_2_Python.ipynb) and [Part 3](Part_3_Pandas.ipynb) in Jupyterlab.
 
