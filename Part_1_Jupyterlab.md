@@ -132,6 +132,15 @@ or
 python -m pip install -r requirements.txt
 ```
 
+If this fails run
+```bash
+uv pip install pandas matplotlib requests smart_open pydbtools
+```
+or
+```
+pip install pandas matplotlib requests smart_open pydbtools
+```
+
 #### Task: Install additional packages
 
 The requirements file included `pandas`, a data analysis package which you are likely to use a lot when coding in python, and a few other useful packages. However to access files on the Analytical Platform we need an additional package, `s3fs`.
