@@ -1,5 +1,6 @@
 import requests
 import json
+from collections import Counter
 
 def street_crime(lat, lon, month, year):
     # Use the police API to download data about crime in a
@@ -22,3 +23,14 @@ def street_crime(lat, lon, month, year):
         data = []
     
     return data
+
+def most_crime_location(crimes_dataset, location_pattern = "", crime_category = "violent-crime", n_returned = 1):
+    crime_locations = [
+        crime["location"]["street"]["name"]
+        for crime in crimes_dataset
+        if location_pattern in crime["location"]["street"]["name"] and crime["category"] == crime_category
+    ]
+
+    most_crime_location = Counter(crime_locations).most_common(n_returned)
+    
+    return(most_crime_location)
