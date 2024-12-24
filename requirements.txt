@@ -11,7 +11,7 @@ dataengineeringutils3==1.4.3
 deprecated==1.2.14
 fonttools==4.54.1
 idna==3.10
-jinja2==3.1.4
+jinja2==3.1.5
 jmespath==1.0.1
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
